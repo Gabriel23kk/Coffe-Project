@@ -54,3 +54,12 @@ section {
     padding-bottom: 0.5rem;
     font-size: 1.3rem;
 }
+.icons img {
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.icons img:hover {
+    width: 40px;
+    height: 40px;
+}
