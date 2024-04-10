@@ -182,7 +182,6 @@ section {
     border: var(--border);
 
 }
-
 .review .box-container .box p{
     font-size: 1.5rem;
     color: var(--branco);
